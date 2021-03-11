@@ -1,9 +1,8 @@
-body{
-    background-color: rgb(14, 16, 160);
-    align-content: center;
+html{
+background-color: blue;
+align-content: center;
 }
 nav{
-    border: 4px solid black;
-    background-color: cornsilk;
-    
+    border-color: darkslategrey;
+    text-decoration-color: floralwhite;
 }
